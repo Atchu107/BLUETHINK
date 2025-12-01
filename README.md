@@ -15,10 +15,15 @@ We have been organised the business using a lot of tools.
 # Our Team
 
 -Takase Haruomi- Founder and HOD(software)
+
 -Akshath Saidev- Co-Founder and HOD(hardware)
+
 -Ryo Yap- innovation specialist
+
 -Eden Oh- Buisness and marketing specialist
+
 -Sai Vempati- analytical analysis specialist
+
 -Dang Bao Long- technical support
 
 # Achievments
