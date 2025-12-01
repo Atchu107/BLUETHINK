@@ -1,12 +1,12 @@
 
 
-BLUETHINK
+#BLUETHINK
 
-What are we?
+#What are we?
 
 We are the first student-driven “BUSINESS” in Invictus International School Malaysia @ Horizon Hills that is based on technology.
 
-Why us?
+#Why us?
 
 We have organised the business using a lot of tools:
 
@@ -19,7 +19,7 @@ GitHub, which you are using right now
 And a lot more...
 
 
-Our Team
+#Our Team
 
 Takase Haruomi – Founder & HOD (Software)
 
@@ -34,7 +34,7 @@ Sai Vempati – Analytical Analysis Specialist
 Dang Bao Long – Technical Support
 
 
-Achievements
+#Achievements
 
 Raised 247 RM in one day through wholesales
 
