@@ -29,5 +29,6 @@ We have been organised the business using a lot of tools.
 # Achievments
 
 -raised 247 RM in a day through wholesales
+
 -first student-driven buisness at IHH
 
